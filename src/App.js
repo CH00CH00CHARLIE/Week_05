@@ -9,6 +9,9 @@ class App extends Component {
       "Add boba",
       "Drain water",
       "Add tea"
+      "Remove tea"
+      "Drink water"
+      "Hello, world!"
     ]
   };
 
